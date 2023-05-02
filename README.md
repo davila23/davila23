@@ -1,5 +1,5 @@
 <div align="center">
-  <h2> <strong> My Github Stats </strong> <img src="assests/borderseperator.gif"></h2>
+  <h2><img src="assests/borderseperator.gif">  <img src="assests/borderseperator.gif"></h2>
   <img src="https://github-profile-trophy.vercel.app/?username=davila23&theme=flat&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
 
 
@@ -9,8 +9,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=davila23&show_icons=true&title_color=101010&text_color=101010&iconcolor=101010&bg_color=F7F9FC&border_radius=0&count_private=true&include_all_commits=true" height="150" alt="stats graph"  />
 </div> <br>
 
-  
-<h3 align="left">Connect with me:</h3>
+  <img src="assests/borderseperator.gif">  <img src="assests/borderseperator.gif">
+<h3 align="left">Connect with me: </h3>
 
 <a href="https://www.linkedin.com/in/avila-daniel/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="davila23" /></a>
 

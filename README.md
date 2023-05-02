@@ -1,5 +1,5 @@
 
-## 🚀 About Me 
+## About Me    😁 
 
 Hi, I'm Daniel, a Senior Software Engineer from Argentina with over 13 years of experience working in backend and frontend development, as well as AWS Cloud Services.
 

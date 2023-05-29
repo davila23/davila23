@@ -1,9 +1,9 @@
 
 ## About Me    😁 
 
-Hi, I'm Daniel, a Senior Software Engineer from Argentina with over 13 years of experience working in backend and frontend development, as well as AWS Cloud Services.
+Hi, I'm Daniel, and I am a seasoned Senior Software Engineer hailing from Argentina. I have over 13 years of experience in both backend and frontend development, along with expertise in Cloud Services such as AWS o GCP.
 
-As a passionate technologist, I am dedicated to working on projects that make a difference and have a real impact on users. Throughout my career, I have worked in various roles and technologies, which has allowed me to adapt quickly to any team's needs and requirements.
+As a tech enthusiast, I am passionate about working on projects that can make a real impact on users. Throughout my career, I have embraced various roles and technologies, allowing me to quickly adapt to any team's needs and requirements.
 
 In addition to my technical expertise, I have a keen interest in all things related to #Bitcoin, #Blockchain, #NFTs, #Metaverse, #DeFi, #Web3, #DAO, and #SmartContracts. So, whether you're looking to discuss these topics or need guidance in these areas, please don't hesitate to reach out to me.
 

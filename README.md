@@ -4,6 +4,8 @@
   <img alt="Daniel Avila, senior software engineer" src="assets/header-light.svg" width="100%">
 </picture>
 
+<br>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/avila-daniel/"><b>LinkedIn</b></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
@@ -16,21 +18,24 @@
 
 ## About
 
-Seventeen years as a software engineer, most of them on the backend of systems
-where mistakes are expensive: telephone banking serving fifty thousand callers
-a day, health-insurance quoting under regulatory constraints, a notifications
+Seventeen years as a software engineer, drawn to the work that changes a
+product: migrations that cannot fail, features built from scratch, and
+problems where the result is measured by the business rather than by the
+ticket. I like owning things end to end, from the domain model to what the
+user sees, and I bring a product view to engineering decisions.
+
+Most of those years were spent on the backend of systems where mistakes are
+expensive: telephone banking serving fifty thousand callers a day,
+health-insurance quoting under regulatory constraints, a notifications
 platform moving half a million messages a day, a security-compliance product
 built to FedRAMP requirements, and a regulated real-money gaming platform with
 its own payments, custody and risk stack.
 
-Today the work sits where platform engineering meets applied AI: payment
-orchestration and reconciliation across PIX, cards and crypto, MPC-based
-digital-asset custody, AML and fraud rules engines, and LLM systems that run
-in production rather than in a demo. I have led small teams through migrations
-that could not fail, and I care as much about clear domain models and
-maintainable code as about shipping. Based in Miami, working remotely.
-
-<br>
+Today my work is taking features end to end with full ownership and autonomy,
+from the first conversation about the problem to production, leveraging AI
+tooling and agent orchestration across the whole cycle. I have been an early
+adopter of these tools since the first usable models, and they are now part
+of how I design, build, test and review.
 
 ## Technologies
 

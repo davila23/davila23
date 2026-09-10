@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-label="Daniel Avila, senior software engineer. Senior software engineer with seventeen years of experience designing and running backend and platform systems for fintech, banking, cybersecurity and iGaming. Recent work centers on payment orchestration, digital-asset custody, risk and compliance engines, and LLM systems that run in production.">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-label="Daniel Avila, senior software engineer. Senior software engineer with seventeen years of experience designing and running backend and platform systems for fintech, banking, cybersecurity and iGaming. Recent work centers on payment orchestration, digital-asset custody, risk and compliance engines, and LLM systems in production.">
   <style>
     .panel { fill: #161b22; stroke: #30363d; stroke-width: 1; }
     .grid { stroke: #f0f6fc; stroke-width: 1; opacity: 0.045; }
@@ -60,11 +60,10 @@
   <text x="61" y="170" class="name">Daniel Avila</text>
   <line x1="64" y1="204" x2="760" y2="204" class="rule"/>
   <text x="64" y="252" class="lead">Senior software engineer with seventeen years of experience</text>
-  <text x="64" y="282" class="lead">designing and running backend and platform systems for</text>
-  <text x="64" y="312" class="lead">fintech, banking, cybersecurity and iGaming. Recent work</text>
-  <text x="64" y="342" class="lead">centers on payment orchestration, digital-asset custody, risk</text>
-  <text x="64" y="372" class="lead">and compliance engines, and LLM systems that run in</text>
-  <text x="64" y="402" class="lead">production.</text>
+  <text x="64" y="282" class="lead">designing and running backend and platform systems for fintech,</text>
+  <text x="64" y="312" class="lead">banking, cybersecurity and iGaming. Recent work centers on payment</text>
+  <text x="64" y="342" class="lead">orchestration, digital-asset custody, risk and compliance engines,</text>
+  <text x="64" y="372" class="lead">and LLM systems in production.</text>
   <text x="64" y="416" class="tags">TYPESCRIPT · NODE.JS · GO · PYTHON · JAVA · REACT · POSTGRESQL · AWS</text>
   <rect x="808.5" y="64.5" width="327" height="331" rx="12" class="card"/>
   <rect x="840" y="102" width="7" height="7" class="accent"/>

@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Daniel Avila, software engineer">
+  <style>
+    .overline { font: 600 13px ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; letter-spacing: 3.5px; fill: #9198a1; }
+    .name { font: 600 70px ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; letter-spacing: -1.5px; fill: #f0f6fc; }
+    .lead { font: 400 21px ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #9198a1; }
+  </style>
+  <rect x="48" y="60" width="9" height="9" fill="#f0f6fc"/>
+  <text x="70" y="69" class="overline">SOFTWARE ENGINEER</text>
+  <text x="45" y="150" class="name">Daniel Avila</text>
+  <line x1="48" y1="184" x2="1152" y2="184" stroke="#3d444d" stroke-width="1"/>
+  <text x="48" y="222" class="lead">Seventeen years building backend and full-stack systems</text>
+  <text x="48" y="252" class="lead">across fintech, banking, cybersecurity and iGaming.</text>
+  <g fill="#9198a1" opacity="0.28">
+    <circle cx="930" cy="52" r="1.8"/>
+    <circle cx="952" cy="52" r="1.8"/>
+    <circle cx="974" cy="52" r="1.8"/>
+    <circle cx="996" cy="52" r="1.8"/>
+    <circle cx="1018" cy="52" r="1.8"/>
+    <circle cx="1040" cy="52" r="1.8"/>
+    <circle cx="1062" cy="52" r="1.8"/>
+    <circle cx="1084" cy="52" r="1.8"/>
+    <circle cx="1106" cy="52" r="1.8"/>
+    <circle cx="1128" cy="52" r="1.8"/>
+    <circle cx="930" cy="74" r="1.8"/>
+    <circle cx="952" cy="74" r="1.8"/>
+    <circle cx="974" cy="74" r="1.8"/>
+    <circle cx="996" cy="74" r="1.8"/>
+    <circle cx="1018" cy="74" r="1.8"/>
+    <circle cx="1040" cy="74" r="1.8"/>
+    <circle cx="1062" cy="74" r="1.8"/>
+    <circle cx="1084" cy="74" r="1.8"/>
+    <circle cx="1106" cy="74" r="1.8"/>
+    <circle cx="1128" cy="74" r="1.8"/>
+    <circle cx="930" cy="96" r="1.8"/>
+    <circle cx="952" cy="96" r="1.8"/>
+    <circle cx="974" cy="96" r="1.8"/>
+    <circle cx="996" cy="96" r="1.8"/>
+    <circle cx="1018" cy="96" r="1.8"/>
+    <circle cx="1040" cy="96" r="1.8"/>
+    <circle cx="1062" cy="96" r="1.8"/>
+    <circle cx="1084" cy="96" r="1.8"/>
+    <circle cx="1106" cy="96" r="1.8"/>
+    <circle cx="1128" cy="96" r="1.8"/>
+    <circle cx="930" cy="118" r="1.8"/>
+    <circle cx="952" cy="118" r="1.8"/>
+    <circle cx="974" cy="118" r="1.8"/>
+    <circle cx="996" cy="118" r="1.8"/>
+    <circle cx="1018" cy="118" r="1.8"/>
+    <circle cx="1040" cy="118" r="1.8"/>
+    <circle cx="1062" cy="118" r="1.8"/>
+    <circle cx="1084" cy="118" r="1.8"/>
+    <circle cx="1106" cy="118" r="1.8"/>
+    <circle cx="1128" cy="118" r="1.8"/>
+    <circle cx="930" cy="140" r="1.8"/>
+    <circle cx="952" cy="140" r="1.8"/>
+    <circle cx="974" cy="140" r="1.8"/>
+    <circle cx="996" cy="140" r="1.8"/>
+    <circle cx="1018" cy="140" r="1.8"/>
+    <circle cx="1040" cy="140" r="1.8"/>
+    <circle cx="1062" cy="140" r="1.8"/>
+    <circle cx="1084" cy="140" r="1.8"/>
+    <circle cx="1106" cy="140" r="1.8"/>
+    <circle cx="1128" cy="140" r="1.8"/>
+    <circle cx="930" cy="162" r="1.8"/>
+    <circle cx="952" cy="162" r="1.8"/>
+    <circle cx="974" cy="162" r="1.8"/>
+    <circle cx="996" cy="162" r="1.8"/>
+    <circle cx="1018" cy="162" r="1.8"/>
+    <circle cx="1040" cy="162" r="1.8"/>
+    <circle cx="1062" cy="162" r="1.8"/>
+    <circle cx="1084" cy="162" r="1.8"/>
+    <circle cx="1106" cy="162" r="1.8"/>
+    <circle cx="1128" cy="162" r="1.8"/>
+  </g>
+</svg>

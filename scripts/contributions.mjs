@@ -73,7 +73,7 @@ function render(theme) {
   <style>
     .overline { font: 600 14px ${FONT}; letter-spacing: 3.5px; fill: ${t.muted}; }
     .total { font: 500 18px ${FONT}; fill: ${t.text}; }
-    .label { font: 400 12px ${FONT}; fill: ${t.muted}; }
+    .label { font: 400 15px ${FONT}; fill: ${t.muted}; }
   </style>
   ${out.join("\n  ")}
 </svg>

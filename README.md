@@ -1,39 +1,30 @@
-<h1 align="center">Daniel Avila</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img alt="Daniel Avila, software engineer" src="assets/header-light.svg" width="100%">
+</picture>
 
 <p align="center">
-  Founder at <a href="https://www.rottay.com">Rottay</a>. Building multitenant products for the AI era.
+  <a href="https://www.linkedin.com/in/avila-daniel/"><b>LinkedIn</b></a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/avila-daniel/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://www.rottay.com">rottay.com</a> &nbsp;·&nbsp;
-  <a href="https://bithire.com">BitHire</a>
-</p>
+<br>
 
-## What I do
+I care about clear domain models, systems that stay maintainable long after
+they ship, and interfaces that feel finished.
 
-I founded Rottay, a modular software company: one shared platform underneath,
-several vertical products on top. I work across the whole stack, from the
-domain model and the multitenant runtime to the design system and the product
-surface.
-
-Most of my time goes to:
-
-- **BitHire** — AI-assisted recruiting. [bithire.com](https://bithire.com)
-- **Evnto** — event operations, built on the same platform.
-- **Rottay Platform** — the console that runs tenants, identity, permissions and billing for every vertical.
-- **Agent Control Plane** — coordinating AI coding agents across providers, with verification gates before work moves forward.
+<br>
 
 ## Open source
 
-| Project | What it is |
-| --- | --- |
-| [rottay/agent-control-plane](https://github.com/rottay/agent-control-plane) | Local-first framework for coordinating work across AI providers, models and accounts. |
-| [rottay/ui-design-system](https://github.com/rottay/ui-design-system) | Multi-brand design system: tokens, themes, primitives, patterns and page surfaces. Live at [showroom.rottay.com](https://showroom.rottay.com). |
+### [Agent Control Plane](https://github.com/rottay/agent-control-plane)
 
-## How I build
+Local-first framework for coordinating AI coding agents across providers,
+models and accounts. Each step declares what it must deliver and what has to
+be verified before the work moves forward.
 
-- TypeScript end to end: Next.js, React, Node.
-- PostgreSQL with Drizzle. Hexagonal architecture, DDD, CQRS, event-driven modules.
-- Multitenancy as a first-class constraint, not a feature bolted on later.
-- AI agents as part of the engineering team, with gates that verify what they produce.
+### [Design System](https://github.com/rottay/ui-design-system) &nbsp;·&nbsp; [Showroom](https://showroom.rottay.com)
+
+Multi-brand design system: tokens, themes, primitives, patterns and page-level
+surfaces, built so one product can carry many identities without losing
+quality.

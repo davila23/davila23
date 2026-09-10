@@ -23,7 +23,7 @@ Local-first framework for coordinating AI coding agents across providers,
 models and accounts. Each step declares what it must deliver and what has to
 be verified before the work moves forward.
 
-### [Design System](https://github.com/rottay/ui-design-system) &nbsp;·&nbsp; [Showroom](https://showroom.rottay.com)
+### [Design System](https://github.com/rottay/ui-design-system)
 
 Multi-brand design system: tokens, themes, primitives, patterns and page-level
 surfaces, built so one product can carry many identities without losing

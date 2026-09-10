@@ -44,6 +44,7 @@ model and account of your choice, with explicit boundaries on what that agent
 may read, change, call or spend. Every step declares what it must deliver and
 which evidence is required before the work is allowed to advance, so a task
 moves forward on verified results rather than on an agent saying it is done.
+
 When an account runs out of quota or a step fails, the plan pauses, recovers
 or hands off to a compatible worker without losing the work already done.
 TypeScript, provider-agnostic, built to swap tools without rebuilding the
@@ -62,6 +63,7 @@ customer gets a distinct visual identity over the same shared components.
 A bounded set of tenant decisions, covering typography, shape, spacing,
 surfaces, interaction states and motion, cascades through tokens, themes and
 four composition tiers: primitives, patterns, structures and page surfaces.
+
 The result is white-label differentiation that goes well beyond swapping a
 primary color, with the same accessibility, interaction and responsive quality
 whether a tenant customizes a little or a lot. Includes a tenant theme editor

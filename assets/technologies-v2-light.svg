@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1032" viewBox="0 0 1200 1032" role="img" aria-label="Technologies. Languages: TypeScript · JavaScript · Go · Python · Java; Backend: Node.js · GraphQL (Apollo) · FastAPI · Spring Boot · REST / OpenAPI · Microservices; Frontend: React · Next.js · Redux · RxJS · Angular · Webpack Module Federation; Data and messaging: PostgreSQL · pgvector · MongoDB · MySQL · Redis · DynamoDB · Kafka · SNS / SQS; Cloud and infrastructure: AWS · Azure · GCP · Docker · Kubernetes · Jenkins · Datadog · Linux; AI agents: AI agents · Agentic AI · Agent orchestration · Multi-agent systems · Model Context Protocol (MCP) · LangGraph · LangChain · Function calling · Structured outputs; AI tooling: Anthropic API · OpenAI API · Vercel AI SDK · Claude Code · OpenAI Codex · Claude Agent SDK · Restate · Temporal (durable execution); LLM engineering: Retrieval-Augmented Generation (RAG) · Prompt engineering · LLM evaluation · LLM fine-tuning · LLM observability · Langfuse · OpenTelemetry · Guardrails; Voice AI: Twilio · Deepgram · LiveKit · Pipecat · OpenAI Realtime API · SIP / WebRTC · Asterisk; Payments and Web3: Fireblocks (MPC custody) · Web3.js · Stripe · PayPal · PIX · Payment orchestration · Reconciliation; Security and risk: AML / KYC rules engines · Fraud detection · OAuth2 · JWT · TLS · FedRAMP · PCI-aligned handling">
+  <style>
+    .overline { font: 600 14px ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; letter-spacing: 3.5px; fill: #59636e; }
+    .items { font: 400 21px ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #1f2328; }
+    .accent { fill: #1f2328; }
+  </style>
+    <rect x="48" y="36" width="8" height="8" class="accent"/>
+  <text x="66" y="44" class="overline">LANGUAGES</text>
+  <text x="48" y="80" class="items">TypeScript · JavaScript · Go · Python · Java</text>
+  <rect x="648" y="36" width="8" height="8" class="accent"/>
+  <text x="666" y="44" class="overline">BACKEND</text>
+  <text x="648" y="80" class="items">Node.js · GraphQL (Apollo) · FastAPI · Spring</text>
+  <text x="648" y="110" class="items">Boot · REST / OpenAPI · Microservices</text>
+  <rect x="48" y="176" width="8" height="8" class="accent"/>
+  <text x="66" y="184" class="overline">FRONTEND</text>
+  <text x="48" y="220" class="items">React · Next.js · Redux · RxJS · Angular ·</text>
+  <text x="48" y="250" class="items">Webpack Module Federation</text>
+  <rect x="648" y="176" width="8" height="8" class="accent"/>
+  <text x="666" y="184" class="overline">DATA AND MESSAGING</text>
+  <text x="648" y="220" class="items">PostgreSQL · pgvector · MongoDB · MySQL ·</text>
+  <text x="648" y="250" class="items">Redis · DynamoDB · Kafka · SNS / SQS</text>
+  <rect x="48" y="316" width="8" height="8" class="accent"/>
+  <text x="66" y="324" class="overline">CLOUD AND INFRASTRUCTURE</text>
+  <text x="48" y="360" class="items">AWS · Azure · GCP · Docker · Kubernetes ·</text>
+  <text x="48" y="390" class="items">Jenkins · Datadog · Linux</text>
+  <rect x="648" y="316" width="8" height="8" class="accent"/>
+  <text x="666" y="324" class="overline">AI AGENTS</text>
+  <text x="648" y="360" class="items">AI agents · Agentic AI · Agent orchestration ·</text>
+  <text x="648" y="390" class="items">Multi-agent systems · Model Context Protocol</text>
+  <text x="648" y="420" class="items">(MCP) · LangGraph · LangChain · Function</text>
+  <text x="648" y="450" class="items">calling · Structured outputs</text>
+  <rect x="48" y="516" width="8" height="8" class="accent"/>
+  <text x="66" y="524" class="overline">AI TOOLING</text>
+  <text x="48" y="560" class="items">Anthropic API · OpenAI API · Vercel AI SDK ·</text>
+  <text x="48" y="590" class="items">Claude Code · OpenAI Codex · Claude Agent SDK</text>
+  <text x="48" y="620" class="items">· Restate · Temporal (durable execution)</text>
+  <rect x="648" y="516" width="8" height="8" class="accent"/>
+  <text x="666" y="524" class="overline">LLM ENGINEERING</text>
+  <text x="648" y="560" class="items">Retrieval-Augmented Generation (RAG) · Prompt</text>
+  <text x="648" y="590" class="items">engineering · LLM evaluation · LLM fine-tuning</text>
+  <text x="648" y="620" class="items">· LLM observability · Langfuse · OpenTelemetry</text>
+  <text x="648" y="650" class="items">· Guardrails</text>
+  <rect x="48" y="716" width="8" height="8" class="accent"/>
+  <text x="66" y="724" class="overline">VOICE AI</text>
+  <text x="48" y="760" class="items">Twilio · Deepgram · LiveKit · Pipecat · OpenAI</text>
+  <text x="48" y="790" class="items">Realtime API · SIP / WebRTC · Asterisk</text>
+  <rect x="648" y="716" width="8" height="8" class="accent"/>
+  <text x="666" y="724" class="overline">PAYMENTS AND WEB3</text>
+  <text x="648" y="760" class="items">Fireblocks (MPC custody) · Web3.js · Stripe ·</text>
+  <text x="648" y="790" class="items">PayPal · PIX · Payment orchestration ·</text>
+  <text x="648" y="820" class="items">Reconciliation</text>
+  <rect x="48" y="886" width="8" height="8" class="accent"/>
+  <text x="66" y="894" class="overline">SECURITY AND RISK</text>
+  <text x="48" y="930" class="items">AML / KYC rules engines · Fraud detection ·</text>
+  <text x="48" y="960" class="items">OAuth2 · JWT · TLS · FedRAMP · PCI-aligned</text>
+  <text x="48" y="990" class="items">handling</text>
+</svg>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="516" viewBox="0 0 1200 516" role="img" aria-label="Technologies. Languages: TypeScript · JavaScript · Go · Python · Java; Backend: Node.js · GraphQL (Apollo) · FastAPI · Spring Boot · REST / OpenAPI · Microservices; Frontend: React · Next.js · Redux · RxJS · Angular · Webpack Module Federation; Data and messaging: PostgreSQL · MongoDB · MySQL · Redis · DynamoDB · Kafka · SNS / SQS; Cloud and infrastructure: AWS · Azure · GCP · Docker · Jenkins · Datadog · Linux; AI: LLM systems · RAG · Fine-tuning pipelines · Prompt engineering · MCP · AI agents · Voice AI; Payments and Web3: Fireblocks (MPC custody) · Web3.js · Stripe · PayPal · PIX · Payment orchestration · Reconciliation; Security and risk: AML / KYC rules engines · Fraud detection · OAuth2 · JWT · TLS · FedRAMP · PCI-aligned handling">
+  <style>
+    .overline { font: 600 13px ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; letter-spacing: 3.5px; fill: #9198a1; }
+    .items { font: 400 18px ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #f0f6fc; }
+    .accent { fill: #f0f6fc; }
+  </style>
+  <rect x="48" y="36" width="7" height="7" class="accent"/>
+  <text x="64" y="44" class="overline">LANGUAGES</text>
+  <text x="48" y="76" class="items">TypeScript · JavaScript · Go · Python · Java</text>
+  <rect x="648" y="36" width="7" height="7" class="accent"/>
+  <text x="664" y="44" class="overline">BACKEND</text>
+  <text x="648" y="76" class="items">Node.js · GraphQL (Apollo) · FastAPI · Spring Boot ·</text>
+  <text x="648" y="102" class="items">REST / OpenAPI · Microservices</text>
+  <rect x="48" y="160" width="7" height="7" class="accent"/>
+  <text x="64" y="168" class="overline">FRONTEND</text>
+  <text x="48" y="200" class="items">React · Next.js · Redux · RxJS · Angular · Webpack</text>
+  <text x="48" y="226" class="items">Module Federation</text>
+  <rect x="648" y="160" width="7" height="7" class="accent"/>
+  <text x="664" y="168" class="overline">DATA AND MESSAGING</text>
+  <text x="648" y="200" class="items">PostgreSQL · MongoDB · MySQL · Redis · DynamoDB ·</text>
+  <text x="648" y="226" class="items">Kafka · SNS / SQS</text>
+  <rect x="48" y="284" width="7" height="7" class="accent"/>
+  <text x="64" y="292" class="overline">CLOUD AND INFRASTRUCTURE</text>
+  <text x="48" y="324" class="items">AWS · Azure · GCP · Docker · Jenkins · Datadog · Linux</text>
+  <rect x="648" y="284" width="7" height="7" class="accent"/>
+  <text x="664" y="292" class="overline">AI</text>
+  <text x="648" y="324" class="items">LLM systems · RAG · Fine-tuning pipelines · Prompt</text>
+  <text x="648" y="350" class="items">engineering · MCP · AI agents · Voice AI</text>
+  <rect x="48" y="408" width="7" height="7" class="accent"/>
+  <text x="64" y="416" class="overline">PAYMENTS AND WEB3</text>
+  <text x="48" y="448" class="items">Fireblocks (MPC custody) · Web3.js · Stripe · PayPal ·</text>
+  <text x="48" y="474" class="items">PIX · Payment orchestration · Reconciliation</text>
+  <rect x="648" y="408" width="7" height="7" class="accent"/>
+  <text x="664" y="416" class="overline">SECURITY AND RISK</text>
+  <text x="648" y="448" class="items">AML / KYC rules engines · Fraud detection · OAuth2 ·</text>
+  <text x="648" y="474" class="items">JWT · TLS · FedRAMP · PCI-aligned handling</text>
+</svg>

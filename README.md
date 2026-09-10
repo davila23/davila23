@@ -4,7 +4,7 @@
   <img alt="Daniel Avila, senior software engineer" src="assets/header-light.svg" width="100%">
 </picture>
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/avila-daniel/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact-linkedin-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/contact-linkedin-light.svg"><img alt="LinkedIn" src="assets/contact-linkedin-light.svg" height="44"></picture></a>
   &nbsp;&nbsp;
   <a href="https://linktr.ee/davila23"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact-linktree-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/contact-linktree-light.svg"><img alt="Linktree" src="assets/contact-linktree-light.svg" height="44"></picture></a>

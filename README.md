@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img alt="Daniel Avila, software engineer" src="assets/header-light.svg" width="100%">
+  <img alt="Daniel Avila, senior software engineer" src="assets/header-light.svg" width="100%">
 </picture>
 
 <p align="center">
@@ -14,8 +14,21 @@
 
 <br>
 
-I care about clear domain models, systems that stay maintainable long after
-they ship, and interfaces that feel finished.
+## About
+
+Seventeen years as a software engineer, most of them on the backend of systems
+where mistakes are expensive: telephone banking serving fifty thousand callers
+a day, health-insurance quoting under regulatory constraints, a notifications
+platform moving half a million messages a day, a security-compliance product
+built to FedRAMP requirements, and a regulated real-money gaming platform with
+its own payments, custody and risk stack.
+
+Today the work sits where platform engineering meets applied AI: payment
+orchestration and reconciliation across PIX, cards and crypto, MPC-based
+digital-asset custody, AML and fraud rules engines, and LLM systems that run
+in production rather than in a demo. I have led small teams through migrations
+that could not fail, and I care as much about clear domain models and
+maintainable code as about shipping. Based in Miami, working remotely.
 
 <br>
 
@@ -25,6 +38,16 @@ they ship, and interfaces that feel finished.
   <source media="(prefers-color-scheme: dark)" srcset="assets/technologies-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/technologies-light.svg">
   <img alt="Languages: TypeScript · JavaScript · Go · Python · Java; Backend: Node.js · GraphQL (Apollo) · FastAPI · Spring Boot · REST / OpenAPI · Microservices; Frontend: React · Next.js · Redux · RxJS · Angular · Webpack Module Federation; Data and messaging: PostgreSQL · MongoDB · MySQL · Redis · DynamoDB · Kafka · SNS / SQS; Cloud and infrastructure: AWS · Azure · GCP · Docker · Jenkins · Datadog · Linux; AI: LLM systems · RAG · Fine-tuning pipelines · Prompt engineering · MCP · AI agents · Voice AI; Payments and Web3: Fireblocks (MPC custody) · Web3.js · Stripe · PayPal · PIX · Payment orchestration · Reconciliation; Security and risk: AML / KYC rules engines · Fraud detection · OAuth2 · JWT · TLS · FedRAMP · PCI-aligned handling" src="assets/technologies-light.svg" width="100%">
+</picture>
+
+<br>
+
+## Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/contributions-light.svg">
+  <img alt="Contributions in the last twelve months" src="assets/contributions-light.svg" width="100%">
 </picture>
 
 <br>

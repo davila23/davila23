@@ -1,75 +1,81 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Daniel Avila, software engineer">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-label="Daniel Avila, senior software engineer. Senior software engineer with seventeen years of experience designing and running backend and platform systems for fintech, banking, cybersecurity and iGaming. Recent work centers on payment orchestration, digital-asset custody, risk and compliance engines, and LLM systems that run in production.">
   <style>
-    .overline { font: 600 13px ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; letter-spacing: 3.5px; fill: #9198a1; }
-    .name { font: 600 70px ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; letter-spacing: -1.5px; fill: #f0f6fc; }
-    .lead { font: 400 21px ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #9198a1; }
+    .panel { fill: #161b22; stroke: #30363d; stroke-width: 1; }
+    .grid { stroke: #f0f6fc; stroke-width: 1; opacity: 0.045; }
+    .card { fill: #0d1117; stroke: #30363d; stroke-width: 1; }
+    .rule { stroke: #30363d; stroke-width: 1; }
+    .accent { fill: #f0f6fc; }
+    .overline { font: 600 14px ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; letter-spacing: 4px; fill: #9198a1; }
+    .name { font: 600 78px ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; letter-spacing: -2px; fill: #f0f6fc; }
+    .lead { font: 400 20px ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #9198a1; }
+    .row { font: 500 18px ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #f0f6fc; }
+    .tags { font: 600 12px ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; letter-spacing: 3px; fill: #9198a1; }
   </style>
-  <rect x="48" y="60" width="9" height="9" fill="#f0f6fc"/>
-  <text x="70" y="69" class="overline">SOFTWARE ENGINEER</text>
-  <text x="45" y="150" class="name">Daniel Avila</text>
-  <line x1="48" y1="184" x2="1152" y2="184" stroke="#3d444d" stroke-width="1"/>
-  <text x="48" y="222" class="lead">Seventeen years building backend and full-stack systems</text>
-  <text x="48" y="252" class="lead">across fintech, banking, cybersecurity and iGaming.</text>
-  <g fill="#9198a1" opacity="0.28">
-    <circle cx="930" cy="52" r="1.8"/>
-    <circle cx="952" cy="52" r="1.8"/>
-    <circle cx="974" cy="52" r="1.8"/>
-    <circle cx="996" cy="52" r="1.8"/>
-    <circle cx="1018" cy="52" r="1.8"/>
-    <circle cx="1040" cy="52" r="1.8"/>
-    <circle cx="1062" cy="52" r="1.8"/>
-    <circle cx="1084" cy="52" r="1.8"/>
-    <circle cx="1106" cy="52" r="1.8"/>
-    <circle cx="1128" cy="52" r="1.8"/>
-    <circle cx="930" cy="74" r="1.8"/>
-    <circle cx="952" cy="74" r="1.8"/>
-    <circle cx="974" cy="74" r="1.8"/>
-    <circle cx="996" cy="74" r="1.8"/>
-    <circle cx="1018" cy="74" r="1.8"/>
-    <circle cx="1040" cy="74" r="1.8"/>
-    <circle cx="1062" cy="74" r="1.8"/>
-    <circle cx="1084" cy="74" r="1.8"/>
-    <circle cx="1106" cy="74" r="1.8"/>
-    <circle cx="1128" cy="74" r="1.8"/>
-    <circle cx="930" cy="96" r="1.8"/>
-    <circle cx="952" cy="96" r="1.8"/>
-    <circle cx="974" cy="96" r="1.8"/>
-    <circle cx="996" cy="96" r="1.8"/>
-    <circle cx="1018" cy="96" r="1.8"/>
-    <circle cx="1040" cy="96" r="1.8"/>
-    <circle cx="1062" cy="96" r="1.8"/>
-    <circle cx="1084" cy="96" r="1.8"/>
-    <circle cx="1106" cy="96" r="1.8"/>
-    <circle cx="1128" cy="96" r="1.8"/>
-    <circle cx="930" cy="118" r="1.8"/>
-    <circle cx="952" cy="118" r="1.8"/>
-    <circle cx="974" cy="118" r="1.8"/>
-    <circle cx="996" cy="118" r="1.8"/>
-    <circle cx="1018" cy="118" r="1.8"/>
-    <circle cx="1040" cy="118" r="1.8"/>
-    <circle cx="1062" cy="118" r="1.8"/>
-    <circle cx="1084" cy="118" r="1.8"/>
-    <circle cx="1106" cy="118" r="1.8"/>
-    <circle cx="1128" cy="118" r="1.8"/>
-    <circle cx="930" cy="140" r="1.8"/>
-    <circle cx="952" cy="140" r="1.8"/>
-    <circle cx="974" cy="140" r="1.8"/>
-    <circle cx="996" cy="140" r="1.8"/>
-    <circle cx="1018" cy="140" r="1.8"/>
-    <circle cx="1040" cy="140" r="1.8"/>
-    <circle cx="1062" cy="140" r="1.8"/>
-    <circle cx="1084" cy="140" r="1.8"/>
-    <circle cx="1106" cy="140" r="1.8"/>
-    <circle cx="1128" cy="140" r="1.8"/>
-    <circle cx="930" cy="162" r="1.8"/>
-    <circle cx="952" cy="162" r="1.8"/>
-    <circle cx="974" cy="162" r="1.8"/>
-    <circle cx="996" cy="162" r="1.8"/>
-    <circle cx="1018" cy="162" r="1.8"/>
-    <circle cx="1040" cy="162" r="1.8"/>
-    <circle cx="1062" cy="162" r="1.8"/>
-    <circle cx="1084" cy="162" r="1.8"/>
-    <circle cx="1106" cy="162" r="1.8"/>
-    <circle cx="1128" cy="162" r="1.8"/>
+  <clipPath id="clip"><rect x="0.5" y="0.5" width="1199" height="459" rx="16"/></clipPath>
+  <rect x="0.5" y="0.5" width="1199" height="459" rx="16" class="panel"/>
+  <g clip-path="url(#clip)">
+    <line x1="40" y1="1" x2="40" y2="459" class="grid"/>
+    <line x1="80" y1="1" x2="80" y2="459" class="grid"/>
+    <line x1="120" y1="1" x2="120" y2="459" class="grid"/>
+    <line x1="160" y1="1" x2="160" y2="459" class="grid"/>
+    <line x1="200" y1="1" x2="200" y2="459" class="grid"/>
+    <line x1="240" y1="1" x2="240" y2="459" class="grid"/>
+    <line x1="280" y1="1" x2="280" y2="459" class="grid"/>
+    <line x1="320" y1="1" x2="320" y2="459" class="grid"/>
+    <line x1="360" y1="1" x2="360" y2="459" class="grid"/>
+    <line x1="400" y1="1" x2="400" y2="459" class="grid"/>
+    <line x1="440" y1="1" x2="440" y2="459" class="grid"/>
+    <line x1="480" y1="1" x2="480" y2="459" class="grid"/>
+    <line x1="520" y1="1" x2="520" y2="459" class="grid"/>
+    <line x1="560" y1="1" x2="560" y2="459" class="grid"/>
+    <line x1="600" y1="1" x2="600" y2="459" class="grid"/>
+    <line x1="640" y1="1" x2="640" y2="459" class="grid"/>
+    <line x1="680" y1="1" x2="680" y2="459" class="grid"/>
+    <line x1="720" y1="1" x2="720" y2="459" class="grid"/>
+    <line x1="760" y1="1" x2="760" y2="459" class="grid"/>
+    <line x1="800" y1="1" x2="800" y2="459" class="grid"/>
+    <line x1="840" y1="1" x2="840" y2="459" class="grid"/>
+    <line x1="880" y1="1" x2="880" y2="459" class="grid"/>
+    <line x1="920" y1="1" x2="920" y2="459" class="grid"/>
+    <line x1="960" y1="1" x2="960" y2="459" class="grid"/>
+    <line x1="1000" y1="1" x2="1000" y2="459" class="grid"/>
+    <line x1="1040" y1="1" x2="1040" y2="459" class="grid"/>
+    <line x1="1080" y1="1" x2="1080" y2="459" class="grid"/>
+    <line x1="1120" y1="1" x2="1120" y2="459" class="grid"/>
+    <line x1="1160" y1="1" x2="1160" y2="459" class="grid"/>
+    <line x1="1" y1="40" x2="1199" y2="40" class="grid"/>
+    <line x1="1" y1="80" x2="1199" y2="80" class="grid"/>
+    <line x1="1" y1="120" x2="1199" y2="120" class="grid"/>
+    <line x1="1" y1="160" x2="1199" y2="160" class="grid"/>
+    <line x1="1" y1="200" x2="1199" y2="200" class="grid"/>
+    <line x1="1" y1="240" x2="1199" y2="240" class="grid"/>
+    <line x1="1" y1="280" x2="1199" y2="280" class="grid"/>
+    <line x1="1" y1="320" x2="1199" y2="320" class="grid"/>
+    <line x1="1" y1="360" x2="1199" y2="360" class="grid"/>
+    <line x1="1" y1="400" x2="1199" y2="400" class="grid"/>
+    <line x1="1" y1="440" x2="1199" y2="440" class="grid"/>
   </g>
+  <rect x="64" y="76" width="9" height="9" class="accent"/>
+  <text x="86" y="85" class="overline">SOFTWARE ENGINEER</text>
+  <text x="61" y="170" class="name">Daniel Avila</text>
+  <line x1="64" y1="204" x2="760" y2="204" class="rule"/>
+  <text x="64" y="252" class="lead">Senior software engineer with seventeen years of experience</text>
+  <text x="64" y="282" class="lead">designing and running backend and platform systems for</text>
+  <text x="64" y="312" class="lead">fintech, banking, cybersecurity and iGaming. Recent work</text>
+  <text x="64" y="342" class="lead">centers on payment orchestration, digital-asset custody, risk</text>
+  <text x="64" y="372" class="lead">and compliance engines, and LLM systems that run in</text>
+  <text x="64" y="402" class="lead">production.</text>
+  <text x="64" y="416" class="tags">TYPESCRIPT · NODE.JS · GO · PYTHON · JAVA · REACT · POSTGRESQL · AWS</text>
+  <rect x="808.5" y="64.5" width="327" height="331" rx="12" class="card"/>
+  <rect x="840" y="102" width="7" height="7" class="accent"/>
+  <text x="858" y="109" class="overline">FOCUS</text>
+  <text x="840" y="160" class="row">Backend · Platform engineering</text>
+  <line x1="840" y1="178" x2="1104" y2="178" class="rule"/>
+  <text x="840" y="210" class="row">Fintech · Banking · iGaming</text>
+  <line x1="840" y1="228" x2="1104" y2="228" class="rule"/>
+  <text x="840" y="260" class="row">Cybersecurity · Compliance</text>
+  <line x1="840" y1="278" x2="1104" y2="278" class="rule"/>
+  <text x="840" y="310" class="row">AI agents · LLM · RAG · MCP</text>
+  <line x1="840" y1="328" x2="1104" y2="328" class="rule"/>
+  <text x="840" y="360" class="row">Miami, FL · Remote</text>
 </svg>

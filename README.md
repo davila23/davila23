@@ -36,9 +36,9 @@ of how I design, build, test and review.
 ## Technologies
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/technologies-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/technologies-light.svg">
-  <img alt="Languages: TypeScript · JavaScript · Go · Python · Java; Backend: Node.js · GraphQL (Apollo) · FastAPI · Spring Boot · REST / OpenAPI · Microservices; Frontend: React · Next.js · Redux · RxJS · Angular · Webpack Module Federation; Data and messaging: PostgreSQL · MongoDB · MySQL · Redis · DynamoDB · Kafka · SNS / SQS; Cloud and infrastructure: AWS · Azure · GCP · Docker · Jenkins · Datadog · Linux; AI: LLM systems · RAG · Fine-tuning pipelines · Prompt engineering · MCP · AI agents · Voice AI; Payments and Web3: Fireblocks (MPC custody) · Web3.js · Stripe · PayPal · PIX · Payment orchestration · Reconciliation; Security and risk: AML / KYC rules engines · Fraud detection · OAuth2 · JWT · TLS · FedRAMP · PCI-aligned handling" src="assets/technologies-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/technologies-v2-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/technologies-v2-light.svg">
+  <img alt="Languages: TypeScript · JavaScript · Go · Python · Java; Backend: Node.js · GraphQL (Apollo) · FastAPI · Spring Boot · REST / OpenAPI · Microservices; Frontend: React · Next.js · Redux · RxJS · Angular · Webpack Module Federation; Data and messaging: PostgreSQL · pgvector · MongoDB · MySQL · Redis · DynamoDB · Kafka · SNS / SQS; Cloud and infrastructure: AWS · Azure · GCP · Docker · Kubernetes · Jenkins · Datadog · Linux; AI agents: AI agents · Agentic AI · Agent orchestration · Multi-agent systems · Model Context Protocol (MCP) · LangGraph · LangChain · Function calling · Structured outputs; AI tooling: Anthropic API · OpenAI API · Vercel AI SDK · Claude Code · OpenAI Codex · Claude Agent SDK · Restate · Temporal (durable execution); LLM engineering: Retrieval-Augmented Generation (RAG) · Prompt engineering · LLM evaluation · LLM fine-tuning · LLM observability · Langfuse · OpenTelemetry · Guardrails; Voice AI: Twilio · Deepgram · LiveKit · Pipecat · OpenAI Realtime API · SIP / WebRTC · Asterisk; Payments and Web3: Fireblocks (MPC custody) · Web3.js · Stripe · PayPal · PIX · Payment orchestration · Reconciliation; Security and risk: AML / KYC rules engines · Fraud detection · OAuth2 · JWT · TLS · FedRAMP · PCI-aligned handling" src="assets/technologies-v2-light.svg" width="100%">
 </picture>
 
 <br>

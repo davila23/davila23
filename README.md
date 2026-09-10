@@ -59,6 +59,13 @@ of how I design, build, test and review.
 
 ## Open source
 
+<p align="center">
+  <a href="https://github.com/rottay/agent-control-plane"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pin-agent-control-plane-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/pin-agent-control-plane-light.svg"><img alt="rottay/agent-control-plane" src="assets/pin-agent-control-plane-light.svg" width="49%"></picture></a>
+  <a href="https://github.com/rottay/ui-design-system"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pin-ui-design-system-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/pin-ui-design-system-light.svg"><img alt="rottay/ui-design-system" src="assets/pin-ui-design-system-light.svg" width="49%"></picture></a>
+</p>
+
+<br>
+
 ### [Agent Control Plane](https://github.com/rottay/agent-control-plane)
 
 <a href="https://github.com/rottay/agent-control-plane">

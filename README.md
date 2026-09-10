@@ -6,6 +6,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/avila-daniel/"><b>LinkedIn</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://linktr.ee/davila23"><b>Linktree</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:daniel.avila@rottay.com"><b>daniel.avila@rottay.com</b></a>
 </p>
 
 <br>
